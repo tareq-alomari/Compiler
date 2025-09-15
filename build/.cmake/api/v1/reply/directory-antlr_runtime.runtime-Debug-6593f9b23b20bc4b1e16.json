@@ -1,0 +1,95 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"antlr_runtime/runtime/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 180,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 188,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 195,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"antlr_runtime/runtime/libantlr4-runtime.dll.a"
+			],
+			"targetId" : "antlr4_shared::@d6a1d01b7c85e42a60e1",
+			"targetIndex" : 0,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"antlr_runtime/runtime/libantlr4-runtime.dll"
+			],
+			"targetId" : "antlr4_shared::@d6a1d01b7c85e42a60e1",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"antlr_runtime/runtime/libantlr4-runtime-static.a"
+			],
+			"targetId" : "antlr4_static::@d6a1d01b7c85e42a60e1",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "dev",
+			"destination" : "include/antlr4-runtime",
+			"paths" : 
+			[
+				{
+					"from" : "antlr_runtime/runtime/src",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "antlr_runtime/runtime",
+		"source" : "antlr_runtime/runtime"
+	}
+}

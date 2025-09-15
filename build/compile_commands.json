@@ -1,0 +1,1706 @@
+[
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\main.cpp.obj -c E:\\lect4\\src\\main.cpp",
+  "file": "E:/lect4/src/main.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprBaseListener.cpp.obj -c E:\\lect4\\src\\generated\\ExprBaseListener.cpp",
+  "file": "E:/lect4/src/generated/ExprBaseListener.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprBaseListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprBaseVisitor.cpp.obj -c E:\\lect4\\src\\generated\\ExprBaseVisitor.cpp",
+  "file": "E:/lect4/src/generated/ExprBaseVisitor.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprBaseVisitor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprLexer.cpp.obj -c E:\\lect4\\src\\generated\\ExprLexer.cpp",
+  "file": "E:/lect4/src/generated/ExprLexer.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprLexer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprListener.cpp.obj -c E:\\lect4\\src\\generated\\ExprListener.cpp",
+  "file": "E:/lect4/src/generated/ExprListener.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprParser.cpp.obj -c E:\\lect4\\src\\generated\\ExprParser.cpp",
+  "file": "E:/lect4/src/generated/ExprParser.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprParser.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC -DPROJECT_SOURCE_DIR=\\\"E:/lect4\\\" @CMakeFiles/my_compiler.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\my_compiler.dir\\src\\generated\\ExprVisitor.cpp.obj -c E:\\lect4\\src\\generated\\ExprVisitor.cpp",
+  "file": "E:/lect4/src/generated/ExprVisitor.cpp",
+  "output": "CMakeFiles/my_compiler.dir/src/generated/ExprVisitor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ANTLRErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ANTLRErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ANTLRErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ANTLRErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ANTLRFileStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRFileStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRFileStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ANTLRFileStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ANTLRInputStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRInputStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRInputStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ANTLRInputStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\BailErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BailErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BailErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/BailErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\BaseErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BaseErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BaseErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/BaseErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\BufferedTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BufferedTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BufferedTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/BufferedTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\CharStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CharStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CharStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/CharStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\CommonToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/CommonToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\CommonTokenFactory.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonTokenFactory.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonTokenFactory.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/CommonTokenFactory.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\CommonTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/CommonTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ConsoleErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ConsoleErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ConsoleErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ConsoleErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\DefaultErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\DefaultErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/DefaultErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/DefaultErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\DiagnosticErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\DiagnosticErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/DiagnosticErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/DiagnosticErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Exceptions.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Exceptions.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Exceptions.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Exceptions.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\FailedPredicateException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\FailedPredicateException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/FailedPredicateException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/FailedPredicateException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\InputMismatchException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\InputMismatchException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/InputMismatchException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/InputMismatchException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\IntStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\IntStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/IntStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/IntStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\InterpreterRuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\InterpreterRuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/InterpreterRuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/InterpreterRuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Lexer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Lexer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Lexer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Lexer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\LexerInterpreter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\LexerInterpreter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/LexerInterpreter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/LexerInterpreter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\LexerNoViableAltException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\LexerNoViableAltException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/LexerNoViableAltException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/LexerNoViableAltException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ListTokenSource.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ListTokenSource.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ListTokenSource.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ListTokenSource.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\NoViableAltException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\NoViableAltException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/NoViableAltException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/NoViableAltException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Parser.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Parser.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Parser.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Parser.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ParserInterpreter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ParserInterpreter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ParserInterpreter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ParserInterpreter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ParserRuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ParserRuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ParserRuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ParserRuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\ProxyErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ProxyErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ProxyErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/ProxyErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\RecognitionException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RecognitionException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RecognitionException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/RecognitionException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Recognizer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Recognizer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Recognizer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Recognizer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\RuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/RuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\RuleContextWithAltNum.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuleContextWithAltNum.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuleContextWithAltNum.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/RuleContextWithAltNum.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\RuntimeMetaData.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuntimeMetaData.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuntimeMetaData.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/RuntimeMetaData.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Token.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Token.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Token.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Token.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\TokenSource.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenSource.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenSource.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/TokenSource.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\TokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/TokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\TokenStreamRewriter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenStreamRewriter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenStreamRewriter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/TokenStreamRewriter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\UnbufferedCharStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\UnbufferedCharStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/UnbufferedCharStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/UnbufferedCharStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\UnbufferedTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\UnbufferedTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/UnbufferedTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/UnbufferedTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\Vocabulary.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Vocabulary.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Vocabulary.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/Vocabulary.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\WritableToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\WritableToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/WritableToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/WritableToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATN.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATN.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATN.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATN.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNConfig.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNConfig.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNConfig.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNConfig.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNConfigSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNConfigSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNConfigSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNConfigSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNDeserializationOptions.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNDeserializationOptions.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNDeserializationOptions.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNDeserializationOptions.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNDeserializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNDeserializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNDeserializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNDeserializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ATNStateType.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNStateType.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNStateType.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNStateType.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ActionTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ActionTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ActionTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ActionTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\AmbiguityInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\AmbiguityInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/AmbiguityInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/AmbiguityInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ArrayPredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ArrayPredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ArrayPredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ArrayPredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\AtomTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\AtomTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/AtomTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/AtomTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ContextSensitivityInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ContextSensitivityInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ContextSensitivityInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ContextSensitivityInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\DecisionEventInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionEventInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionEventInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionEventInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\DecisionInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\DecisionState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\EpsilonTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\EpsilonTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/EpsilonTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/EpsilonTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ErrorInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ErrorInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ErrorInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ErrorInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LL1Analyzer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LL1Analyzer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LL1Analyzer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LL1Analyzer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerATNConfig.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerATNConfig.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerATNConfig.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerATNConfig.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerActionExecutor.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerActionExecutor.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerActionExecutor.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerActionExecutor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerChannelAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerChannelAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerChannelAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerChannelAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerCustomAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerCustomAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerCustomAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerCustomAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerIndexedCustomAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerIndexedCustomAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerIndexedCustomAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerIndexedCustomAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerMoreAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerMoreAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerMoreAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerMoreAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerPopModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerPopModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerPopModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerPopModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerPushModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerPushModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerPushModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerPushModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerSkipAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerSkipAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerSkipAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerSkipAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LexerTypeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerTypeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerTypeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerTypeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\LookaheadEventInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LookaheadEventInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LookaheadEventInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/LookaheadEventInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\NotSetTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\NotSetTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/NotSetTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/NotSetTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\OrderedATNConfigSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\OrderedATNConfigSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/OrderedATNConfigSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/OrderedATNConfigSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ParseInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ParseInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ParseInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ParseInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ParserATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ParserATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ParserATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ParserATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PrecedencePredicateTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PrecedencePredicateTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PrecedencePredicateTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PrecedencePredicateTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredicateEvalInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredicateEvalInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredicateEvalInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredicateEvalInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredicateTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredicateTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredicateTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredicateTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredictionContextCache.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContextCache.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContextCache.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionContextCache.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredictionContextMergeCache.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContextMergeCache.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContextMergeCache.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionContextMergeCache.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\PredictionMode.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionMode.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionMode.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionMode.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\ProfilingATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ProfilingATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ProfilingATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/ProfilingATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\RangeTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\RangeTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/RangeTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/RangeTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\RuleTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\RuleTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/RuleTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/RuleTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\SemanticContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SemanticContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SemanticContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/SemanticContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\SetTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SetTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SetTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/SetTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\SingletonPredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SingletonPredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SingletonPredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/SingletonPredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\StarLoopbackState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\StarLoopbackState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/StarLoopbackState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/StarLoopbackState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\Transition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\Transition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/Transition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/Transition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\TransitionType.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\TransitionType.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/TransitionType.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/TransitionType.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\atn\\WildcardTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\WildcardTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/WildcardTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/atn/WildcardTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\dfa\\DFA.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFA.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFA.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFA.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\dfa\\DFASerializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFASerializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFASerializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFASerializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\dfa\\DFAState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFAState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFAState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFAState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\dfa\\LexerDFASerializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\LexerDFASerializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/LexerDFASerializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/dfa/LexerDFASerializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\internal\\Synchronization.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\internal\\Synchronization.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/internal/Synchronization.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/internal/Synchronization.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\misc\\InterpreterDataReader.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\InterpreterDataReader.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/InterpreterDataReader.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/misc/InterpreterDataReader.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\misc\\Interval.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\Interval.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/Interval.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/misc/Interval.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\misc\\IntervalSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\IntervalSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/IntervalSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/misc/IntervalSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\misc\\MurmurHash.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\MurmurHash.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/MurmurHash.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/misc/MurmurHash.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\misc\\Predicate.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\Predicate.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/Predicate.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/misc/Predicate.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\support\\Any.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Any.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Any.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/support/Any.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\support\\Arrays.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Arrays.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Arrays.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/support/Arrays.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\support\\CPPUtils.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\CPPUtils.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/CPPUtils.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/support/CPPUtils.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\support\\StringUtils.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\StringUtils.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/StringUtils.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/support/StringUtils.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\support\\Utf8.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Utf8.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Utf8.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/support/Utf8.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\ErrorNodeImpl.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ErrorNodeImpl.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ErrorNodeImpl.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/ErrorNodeImpl.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\IterativeParseTreeWalker.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\IterativeParseTreeWalker.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/IterativeParseTreeWalker.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/IterativeParseTreeWalker.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\ParseTree.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTree.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTree.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTree.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\ParseTreeListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTreeListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\ParseTreeVisitor.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeVisitor.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeVisitor.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTreeVisitor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\ParseTreeWalker.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeWalker.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeWalker.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTreeWalker.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\TerminalNodeImpl.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\TerminalNodeImpl.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/TerminalNodeImpl.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/TerminalNodeImpl.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\Trees.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\Trees.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/Trees.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/Trees.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\Chunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\Chunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/Chunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/Chunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\ParseTreeMatch.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreeMatch.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreeMatch.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreeMatch.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\ParseTreePattern.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreePattern.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreePattern.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreePattern.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\ParseTreePatternMatcher.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreePatternMatcher.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreePatternMatcher.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\RuleTagToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\RuleTagToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/RuleTagToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/RuleTagToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\TagChunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TagChunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TagChunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TagChunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\TextChunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TextChunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TextChunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TextChunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\pattern\\TokenTagToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TokenTagToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TokenTagToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TokenTagToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPath.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPath.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPath.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPath.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathLexer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathLexer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathLexer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathLexer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathLexerErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathLexerErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathLexerErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathLexerErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathRuleAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathRuleAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathRuleAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathRuleElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathRuleElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathRuleElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathRuleElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathTokenAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathTokenAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathTokenAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathTokenElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathTokenElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathTokenElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathTokenElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathWildcardAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathWildcardAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathWildcardAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_static.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_static.dir\\src\\tree\\xpath\\XPathWildcardElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathWildcardElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathWildcardElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathWildcardElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ANTLRErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ANTLRErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ANTLRFileStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRFileStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRFileStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRFileStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ANTLRInputStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ANTLRInputStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ANTLRInputStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRInputStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\BailErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BailErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BailErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/BailErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\BaseErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BaseErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BaseErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/BaseErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\BufferedTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\BufferedTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/BufferedTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/BufferedTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\CharStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CharStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CharStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/CharStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\CommonToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/CommonToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\CommonTokenFactory.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonTokenFactory.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonTokenFactory.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/CommonTokenFactory.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\CommonTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\CommonTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/CommonTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/CommonTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ConsoleErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ConsoleErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ConsoleErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ConsoleErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\DefaultErrorStrategy.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\DefaultErrorStrategy.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/DefaultErrorStrategy.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/DefaultErrorStrategy.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\DiagnosticErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\DiagnosticErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/DiagnosticErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/DiagnosticErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Exceptions.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Exceptions.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Exceptions.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Exceptions.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\FailedPredicateException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\FailedPredicateException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/FailedPredicateException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/FailedPredicateException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\InputMismatchException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\InputMismatchException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/InputMismatchException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/InputMismatchException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\IntStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\IntStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/IntStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/IntStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\InterpreterRuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\InterpreterRuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/InterpreterRuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/InterpreterRuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Lexer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Lexer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Lexer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Lexer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\LexerInterpreter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\LexerInterpreter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/LexerInterpreter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/LexerInterpreter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\LexerNoViableAltException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\LexerNoViableAltException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/LexerNoViableAltException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/LexerNoViableAltException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ListTokenSource.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ListTokenSource.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ListTokenSource.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ListTokenSource.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\NoViableAltException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\NoViableAltException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/NoViableAltException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/NoViableAltException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Parser.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Parser.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Parser.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Parser.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ParserInterpreter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ParserInterpreter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ParserInterpreter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ParserInterpreter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ParserRuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ParserRuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ParserRuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ParserRuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\ProxyErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\ProxyErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/ProxyErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/ProxyErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\RecognitionException.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RecognitionException.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RecognitionException.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/RecognitionException.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Recognizer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Recognizer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Recognizer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Recognizer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\RuleContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuleContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuleContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/RuleContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\RuleContextWithAltNum.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuleContextWithAltNum.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuleContextWithAltNum.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/RuleContextWithAltNum.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\RuntimeMetaData.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\RuntimeMetaData.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/RuntimeMetaData.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/RuntimeMetaData.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Token.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Token.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Token.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Token.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\TokenSource.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenSource.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenSource.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/TokenSource.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\TokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/TokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\TokenStreamRewriter.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\TokenStreamRewriter.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/TokenStreamRewriter.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/TokenStreamRewriter.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\UnbufferedCharStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\UnbufferedCharStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/UnbufferedCharStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/UnbufferedCharStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\UnbufferedTokenStream.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\UnbufferedTokenStream.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/UnbufferedTokenStream.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/UnbufferedTokenStream.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\Vocabulary.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\Vocabulary.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/Vocabulary.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/Vocabulary.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\WritableToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\WritableToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/WritableToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/WritableToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATN.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATN.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATN.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATN.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNConfig.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNConfig.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNConfig.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNConfig.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNConfigSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNConfigSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNConfigSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNConfigSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNDeserializationOptions.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNDeserializationOptions.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNDeserializationOptions.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNDeserializationOptions.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNDeserializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNDeserializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNDeserializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNDeserializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ATNStateType.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ATNStateType.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ATNStateType.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNStateType.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ActionTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ActionTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ActionTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ActionTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\AmbiguityInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\AmbiguityInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/AmbiguityInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/AmbiguityInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ArrayPredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ArrayPredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ArrayPredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ArrayPredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\AtomTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\AtomTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/AtomTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/AtomTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ContextSensitivityInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ContextSensitivityInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ContextSensitivityInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ContextSensitivityInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\DecisionEventInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionEventInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionEventInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionEventInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\DecisionInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\DecisionState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\DecisionState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/DecisionState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\EpsilonTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\EpsilonTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/EpsilonTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/EpsilonTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ErrorInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ErrorInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ErrorInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ErrorInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LL1Analyzer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LL1Analyzer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LL1Analyzer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LL1Analyzer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerATNConfig.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerATNConfig.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerATNConfig.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerATNConfig.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerActionExecutor.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerActionExecutor.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerActionExecutor.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerActionExecutor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerChannelAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerChannelAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerChannelAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerChannelAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerCustomAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerCustomAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerCustomAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerCustomAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerIndexedCustomAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerIndexedCustomAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerIndexedCustomAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerIndexedCustomAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerMoreAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerMoreAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerMoreAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerMoreAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerPopModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerPopModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerPopModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerPopModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerPushModeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerPushModeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerPushModeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerPushModeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerSkipAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerSkipAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerSkipAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerSkipAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LexerTypeAction.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LexerTypeAction.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LexerTypeAction.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerTypeAction.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\LookaheadEventInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\LookaheadEventInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/LookaheadEventInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/LookaheadEventInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\NotSetTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\NotSetTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/NotSetTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/NotSetTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\OrderedATNConfigSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\OrderedATNConfigSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/OrderedATNConfigSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/OrderedATNConfigSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ParseInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ParseInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ParseInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ParseInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ParserATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ParserATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ParserATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ParserATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PrecedencePredicateTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PrecedencePredicateTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PrecedencePredicateTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PrecedencePredicateTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredicateEvalInfo.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredicateEvalInfo.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredicateEvalInfo.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredicateEvalInfo.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredicateTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredicateTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredicateTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredicateTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredictionContextCache.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContextCache.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContextCache.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionContextCache.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredictionContextMergeCache.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionContextMergeCache.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionContextMergeCache.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionContextMergeCache.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\PredictionMode.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\PredictionMode.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/PredictionMode.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionMode.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\ProfilingATNSimulator.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\ProfilingATNSimulator.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/ProfilingATNSimulator.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/ProfilingATNSimulator.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\RangeTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\RangeTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/RangeTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/RangeTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\RuleTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\RuleTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/RuleTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/RuleTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\SemanticContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SemanticContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SemanticContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/SemanticContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\SetTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SetTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SetTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/SetTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\SingletonPredictionContext.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\SingletonPredictionContext.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/SingletonPredictionContext.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/SingletonPredictionContext.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\StarLoopbackState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\StarLoopbackState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/StarLoopbackState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/StarLoopbackState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\Transition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\Transition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/Transition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/Transition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\TransitionType.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\TransitionType.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/TransitionType.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/TransitionType.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\atn\\WildcardTransition.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\atn\\WildcardTransition.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/atn/WildcardTransition.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/atn/WildcardTransition.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\dfa\\DFA.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFA.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFA.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFA.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\dfa\\DFASerializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFASerializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFASerializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFASerializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\dfa\\DFAState.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\DFAState.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/DFAState.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFAState.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\dfa\\LexerDFASerializer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\dfa\\LexerDFASerializer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/dfa/LexerDFASerializer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/dfa/LexerDFASerializer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\internal\\Synchronization.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\internal\\Synchronization.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/internal/Synchronization.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/internal/Synchronization.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\misc\\InterpreterDataReader.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\InterpreterDataReader.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/InterpreterDataReader.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/misc/InterpreterDataReader.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\misc\\Interval.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\Interval.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/Interval.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/misc/Interval.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\misc\\IntervalSet.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\IntervalSet.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/IntervalSet.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/misc/IntervalSet.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\misc\\MurmurHash.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\MurmurHash.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/MurmurHash.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/misc/MurmurHash.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\misc\\Predicate.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\misc\\Predicate.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/misc/Predicate.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/misc/Predicate.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\support\\Any.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Any.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Any.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/support/Any.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\support\\Arrays.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Arrays.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Arrays.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/support/Arrays.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\support\\CPPUtils.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\CPPUtils.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/CPPUtils.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/support/CPPUtils.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\support\\StringUtils.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\StringUtils.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/StringUtils.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/support/StringUtils.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\support\\Utf8.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\support\\Utf8.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/support/Utf8.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/support/Utf8.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\ErrorNodeImpl.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ErrorNodeImpl.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ErrorNodeImpl.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/ErrorNodeImpl.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\IterativeParseTreeWalker.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\IterativeParseTreeWalker.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/IterativeParseTreeWalker.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/IterativeParseTreeWalker.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\ParseTree.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTree.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTree.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTree.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\ParseTreeListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTreeListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\ParseTreeVisitor.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeVisitor.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeVisitor.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTreeVisitor.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\ParseTreeWalker.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\ParseTreeWalker.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/ParseTreeWalker.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTreeWalker.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\TerminalNodeImpl.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\TerminalNodeImpl.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/TerminalNodeImpl.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/TerminalNodeImpl.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\Trees.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\Trees.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/Trees.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/Trees.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\Chunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\Chunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/Chunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/Chunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\ParseTreeMatch.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreeMatch.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreeMatch.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreeMatch.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\ParseTreePattern.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreePattern.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreePattern.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreePattern.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\ParseTreePatternMatcher.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\ParseTreePatternMatcher.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreePatternMatcher.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\RuleTagToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\RuleTagToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/RuleTagToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/RuleTagToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\TagChunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TagChunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TagChunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TagChunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\TextChunk.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TextChunk.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TextChunk.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TextChunk.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\pattern\\TokenTagToken.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\pattern\\TokenTagToken.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/pattern/TokenTagToken.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TokenTagToken.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPath.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPath.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPath.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPath.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathLexer.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathLexer.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathLexer.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathLexer.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathLexerErrorListener.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathLexerErrorListener.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathLexerErrorListener.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathLexerErrorListener.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathRuleAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathRuleAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathRuleAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathRuleElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathRuleElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathRuleElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathRuleElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathTokenAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathTokenAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathTokenAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathTokenElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathTokenElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathTokenElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathTokenElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathWildcardAnywhereElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathWildcardAnywhereElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardAnywhereElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_EXPORTS -Dantlr4_shared_EXPORTS @CMakeFiles/antlr4_shared.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wno-overloaded-virtual -Wno-multichar  -o CMakeFiles\\antlr4_shared.dir\\src\\tree\\xpath\\XPathWildcardElement.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\src\\tree\\xpath\\XPathWildcardElement.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/src/tree/xpath/XPathWildcardElement.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardElement.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/antlr_runtime/runtime",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DANTLR4CPP_STATIC @CMakeFiles/antlr4_tests.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -o CMakeFiles\\antlr4_tests.dir\\tests\\Utf8Test.cpp.obj -c E:\\lect4\\antlr_runtime\\runtime\\tests\\Utf8Test.cpp",
+  "file": "E:/lect4/antlr_runtime/runtime/tests/Utf8Test.cpp",
+  "output": "antlr_runtime/runtime/CMakeFiles/antlr4_tests.dir/tests/Utf8Test.cpp.obj"
+},
+{
+  "directory": "E:/lect4/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c E:\\lect4\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "E:/lect4/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "E:/lect4/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c E:\\lect4\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "E:/lect4/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "E:/lect4/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c E:\\lect4\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "E:/lect4/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "E:/lect4/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp    -Wall -pedantic -W -g -O0 -g   -Wall -pedantic -W -std=c++1z -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c E:\\lect4\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "E:/lect4/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
