@@ -7,7 +7,7 @@
         "listener": true, 
         "package": "antlr_generated"
     },
-    "cmake.sourceDirectory": "E:/lect4",
+    "cmake.sourceDirectory": "E:/Compiler/build/_deps/googletest-src/googletest",
     "files.associations": {
         "*.html": "html",
         "*.css": "css",
