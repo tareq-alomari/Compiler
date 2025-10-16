@@ -18,6 +18,7 @@ add_executable(my_compiler
 
 target_include_directories(my_compiler PUBLIC
     ${CMAKE_CURRENT_SOURCE_DIR}/src/generated
+    ${CMAKE_CURRENT_SOURCE_DIR}/src
     ${CMAKE_CURRENT_SOURCE_DIR}/src/include
 )
 

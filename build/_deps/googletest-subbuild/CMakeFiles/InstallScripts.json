@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/lect4/build/_deps/googletest-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,12 +1,12 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
-# file LICENSE.rst or https://cmake.org/licensing for details.
+# file Copyright.txt or https://cmake.org/licensing for details.
 
 cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
 
 # Make file names absolute:
 #
-get_filename_component(filename "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip" ABSOLUTE)
-get_filename_component(directory "E:/lect4/build/_deps/googletest-src" ABSOLUTE)
+get_filename_component(filename "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip" ABSOLUTE)
+get_filename_component(directory "/workspace/build/_deps/googletest-src" ABSOLUTE)
 
 message(VERBOSE "extracting...
      src='${filename}'
@@ -28,8 +28,8 @@ file(MAKE_DIRECTORY "${ut_dir}")
 
 # Extract it:
 #
-message(VERBOSE "extracting... [tar xf]")
-execute_process(COMMAND ${CMAKE_COMMAND} -E tar xf ${filename} 
+message(VERBOSE "extracting... [tar xfz]")
+execute_process(COMMAND ${CMAKE_COMMAND} -E tar xfz ${filename} 
   WORKING_DIRECTORY ${ut_dir}
   RESULT_VARIABLE rv
 )

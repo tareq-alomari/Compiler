@@ -46,7 +46,8 @@ void start(string sourceCode){
     ExprParser parser(&tokens);
     parser.removeErrorListeners();
     parser.addErrorListener(&parserErrorListener);
-    tree::ParseTree* tree = parser.prog();
+    // ملاحظة: القاعدة العليا في العربية هي 'program'
+    tree::ParseTree* tree = parser.program();
 
     
      // 1. إضافه التوكن الى مجمع المخرجات  لاستلامها في c# او عرضها في console

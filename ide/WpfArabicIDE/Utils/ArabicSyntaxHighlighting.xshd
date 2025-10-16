@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SyntaxDefinition name="ArabicLang" extensions=".al" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
+  <Color name="Keyword" foreground="#007ACC"/>
+  <Color name="Type" foreground="#7A3E9D"/>
+  <Color name="String" foreground="#D14"/>
+  <Color name="Comment" foreground="#6A9955"/>
+  <Color name="Number" foreground="#098658"/>
+  <RuleSet>
+    <Span color="Comment" begin="//" end="\n" />
+    <Span color="String" begin='"' end='"' />
+    <Keywords color="Keyword">
+      <Word>برنامج</Word>
+      <Word>ثابت</Word>
+      <Word>نوع</Word>
+      <Word>متغير</Word>
+      <Word>اجراء</Word>
+      <Word>اذا</Word>
+      <Word>فان</Word>
+      <Word>والا</Word>
+      <Word>كرر</Word>
+      <Word>الى</Word>
+      <Word>طالما</Word>
+      <Word>استمر</Word>
+      <Word>اعد</Word>
+      <Word>حتى</Word>
+      <Word>اقرا</Word>
+      <Word>اطبع</Word>
+      <Word>صح</Word>
+      <Word>خطأ</Word>
+      <Word>من</Word>
+      <Word>قائمة</Word>
+      <Word>سجل</Word>
+    </Keywords>
+    <Keywords color="Type">
+      <Word>صحيح</Word>
+      <Word>حقيقي</Word>
+      <Word>منطقي</Word>
+      <Word>حرفي</Word>
+      <Word>خيط_رمزي</Word>
+    </Keywords>
+    <Regex color="Number">\b\d+\b</Regex>
+  </RuleSet>
+</SyntaxDefinition>
