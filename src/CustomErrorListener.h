@@ -11,7 +11,7 @@ private:
     string prefix;//like=>parser ,lexer,semantic لتشمل الكل  برسائل واضحة
 
 public:
-    explicit CustomErrorListener(string errorPrefix) : prefix(move(errorPrefix)) {}
+    explicit CustomErrorListener(string errorPrefix) : prefix(std::move(errorPrefix)) {}
 
 
     //override this function

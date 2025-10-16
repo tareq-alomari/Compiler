@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.props" />
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}</ProjectGuid>
+    <TargetPlatformVersion>10.0.19041.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <DefaultLanguage>ar-SA</DefaultLanguage>
+    <AppxPackage>true</AppxPackage>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x64</AppxBundlePlatforms>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+    <EntryPointProjectUniqueName>..\WpfArabicIDE\WpfArabicIDE.csproj</EntryPointProjectUniqueName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+    <Content Include="Images\**\*.*" />
+    <ProjectReference Include="..\WpfArabicIDE\WpfArabicIDE.csproj">
+      <Project>{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}</Project>
+      <Name>WpfArabicIDE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.targets" />
+</Project>

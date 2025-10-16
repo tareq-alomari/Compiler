@@ -1,0 +1,43 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfArabicIDE", "WpfArabicIDE\WpfArabicIDE.csproj", "{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}"
+EndProject
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WpfArabicIDE.Packaging", "WpfArabicIDE.Packaging\WpfArabicIDE.Packaging.wapproj", "{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfArabicIDE.Tests", "WpfArabicIDE.Tests\WpfArabicIDE.Tests.csproj", "{A3F65F3D-3F9C-4B98-8C6C-2B1489E8C0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfArabicIDE.Contracts", "WpfArabicIDE.Contracts\WpfArabicIDE.Contracts.csproj", "{8F8C31E7-2F2C-44B7-A1B8-47C90D6ED3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfArabicIDE.PluginSample", "WpfArabicIDE.PluginSample\WpfArabicIDE.PluginSample.csproj", "{D91F8A8E-5E20-4EE0-AE0A-6E5D7D003CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A04962-1C61-4C8B-9299-7C0E0F6CE8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F65F3D-3F9C-4B98-8C6C-2B1489E8C0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F65F3D-3F9C-4B98-8C6C-2B1489E8C0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F65F3D-3F9C-4B98-8C6C-2B1489E8C0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F65F3D-3F9C-4B98-8C6C-2B1489E8C0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F8C31E7-2F2C-44B7-A1B8-47C90D6ED3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8C31E7-2F2C-44B7-A1B8-47C90D6ED3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8C31E7-2F2C-44B7-A1B8-47C90D6ED3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8C31E7-2F2C-44B7-A1B8-47C90D6ED3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91F8A8E-5E20-4EE0-AE0A-6E5D7D003CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91F8A8E-5E20-4EE0-AE0A-6E5D7D003CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91F8A8E-5E20-4EE0-AE0A-6E5D7D003CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91F8A8E-5E20-4EE0-AE0A-6E5D7D003CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1C24C2-8B58-4B86-8D15-8C38C3B8D5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

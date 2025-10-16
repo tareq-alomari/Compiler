@@ -1,5 +1,5 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
-# file LICENSE.rst or https://cmake.org/licensing for details.
+# file Copyright.txt or https://cmake.org/licensing for details.
 
 cmake_minimum_required(VERSION ${CMAKE_VERSION}) # this file comes with cmake
 
@@ -22,14 +22,14 @@ function(check_file_hash has_hash hash_is_good)
   set("${has_hash}" TRUE PARENT_SCOPE)
 
   message(VERBOSE "verifying file...
-       file='E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'")
+       file='/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'")
 
-  file("" "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip" actual_value)
+  file("" "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip" actual_value)
 
   if(NOT "${actual_value}" STREQUAL "")
     set("${hash_is_good}" FALSE PARENT_SCOPE)
     message(VERBOSE " hash of
-    E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip
+    /workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip
   does not match expected value
     expected: ''
       actual: '${actual_value}'")
@@ -71,32 +71,32 @@ function(sleep_before_download attempt)
   execute_process(COMMAND "${CMAKE_COMMAND}" -E sleep "${sleep_seconds}")
 endfunction()
 
-if(EXISTS "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
+if(EXISTS "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
   check_file_hash(has_hash hash_is_good)
   if(has_hash)
     if(hash_is_good)
       message(VERBOSE "File already exists and hash match (skip download):
-  file='E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
+  file='/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
   =''"
       )
       return()
     else()
       message(VERBOSE "File already exists but hash mismatch. Removing...")
-      file(REMOVE "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
+      file(REMOVE "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
     endif()
   else()
     message(VERBOSE "File already exists but no hash specified (use URL_HASH):
-  file='E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
+  file='/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
 Old file will be removed and new file downloaded from URL."
     )
-    file(REMOVE "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
+    file(REMOVE "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
   endif()
 endif()
 
 set(retry_number 5)
 
 message(VERBOSE "Downloading...
-   dst='E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
+   dst='/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip'
    timeout='none'
    inactivity timeout='none'"
 )
@@ -119,7 +119,7 @@ foreach(i RANGE ${retry_number})
 
       file(
         DOWNLOAD
-        "${url}" "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip"
+        "${url}" "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip"
         SHOW_PROGRESS
         # no TIMEOUT
         # no INACTIVITY_TIMEOUT
@@ -136,7 +136,7 @@ foreach(i RANGE ${retry_number})
         check_file_hash(has_hash hash_is_good)
         if(has_hash AND NOT hash_is_good)
           message(VERBOSE "Hash mismatch, removing...")
-          file(REMOVE "E:/lect4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
+          file(REMOVE "/workspace/build/_deps/googletest-subbuild/googletest-populate-prefix/src/e2239ee6043f73722e7aa812a459f54a28552929.zip")
         else()
           message(VERBOSE "Downloading... done")
           return()

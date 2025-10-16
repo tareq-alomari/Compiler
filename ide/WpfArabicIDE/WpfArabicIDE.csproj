@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>WpfArabicIDE</AssemblyName>
+    <RootNamespace>WpfArabicIDE</RootNamespace>
+    <Platforms>AnyCPU</Platforms>
+    <EnableDefaultItems>false</EnableDefaultItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ICSharpCode.AvalonEdit" Version="6.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WpfArabicIDE.Contracts\WpfArabicIDE.Contracts.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs" />
+    <Compile Include="MainWindow.xaml.cs" />
+    <!-- ViewModels placeholders (can be added later if needed) -->
+    <Compile Include="Services/CompilerRunner.cs" />
+    <Compile Include="Services/ConfigService.cs" />
+    <Compile Include="Models/CompilerResult.cs" />
+    <Compile Include="Utils/RelayCommand.cs" />
+    <Compile Include="Views/SettingsWindow.xaml.cs" />
+    <Page Include="App.xaml" />
+    <Page Include="MainWindow.xaml" />
+    <Page Include="Views/SettingsWindow.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Utils\ArabicSyntaxHighlighting.xshd">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Utils\ProjectTemplate.al">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

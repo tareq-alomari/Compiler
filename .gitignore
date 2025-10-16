@@ -1,0 +1,37 @@
+# Build outputs
+build/
+dist/
+release/
+
+# IDE and tooling
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# .cursor tooling
+.cursor/
+
+# CMake intermediates
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Generated binaries
+*.exe
+*.dll
+*.pdb
+*.so*
+*.dylib
+*.a
+*.lib
+
+# .NET bin/obj
+**/bin/
+**/obj/
+
+# Logs and temp
+*.log
+*.tmp
+~$*

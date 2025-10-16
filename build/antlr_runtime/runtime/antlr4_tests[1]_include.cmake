@@ -1,5 +1,5 @@
-if(EXISTS "E:/lect4/build/antlr_runtime/runtime/antlr4_tests[1]_tests.cmake")
-  include("E:/lect4/build/antlr_runtime/runtime/antlr4_tests[1]_tests.cmake")
+if(EXISTS "/workspace/build/antlr_runtime/runtime/antlr4_tests[1]_tests.cmake")
+  include("/workspace/build/antlr_runtime/runtime/antlr4_tests[1]_tests.cmake")
 else()
   add_test(antlr4_tests_NOT_BUILT antlr4_tests_NOT_BUILT)
 endif()
