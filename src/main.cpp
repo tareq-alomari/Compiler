@@ -29,6 +29,7 @@ int main(int argc, char* argv[]) {
         sourceCode = buffer.str();
     }
     auto& resultsHandler = CompilerResultsHandler::getInstance();
+    resultsHandler.reset();
     start(sourceCode);
 
     

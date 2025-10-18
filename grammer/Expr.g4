@@ -1,11 +1,10 @@
 /**
  * ANTLR4 Grammar for the Arabic Programming Language
- Based on the rules provided by Dr. Khalid M.
+ * Based on the rules provided by Dr. Khalid M.
  * Al-Kahsah.
- This grammar defines the structure of the language, from the overall program
- down to
- * expressions and individual tokens.
- By Engineer : Tareq Al-Omari
+ * This grammar defines the structure of the language, from the overall program
+ * down to expressions and individual tokens.
+ * By Engineer : Tareq Al-Omari
  */
 grammar Expr;
 
@@ -17,7 +16,7 @@ program: PROGRAM ID SEMICOLON block DOT; // بداية البرنامج
 block: definitions_part? instructions_list;
 
 definitions_part:
-	constants_definition? types_definition? variables_definition? procedures_definition?;
+	consts=constants_definition? types=types_definition? vars=variables_definition? procs=procedures_definition?;
 
 // --- Definitions Sections ---
 
@@ -69,7 +68,7 @@ data_type:
 	DT_INTEGER
 	| DT_REAL
 	| DT_LOGICAL
-	| DT_CHAR
+    | DT_CHAR
 	| DT_STRING
 	| ID;
 

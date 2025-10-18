@@ -11,6 +11,7 @@ private:
     // كائن JSON الرئيسي الذي سيحتوي على كل شيء
     json results;
     vector<string> errors_vector; // لتسهيل التحقق من وجود أخطاء
+    json warnings_array = json::array();
 
     CompilerResultsHandler() {
         // تهيئة البنية الأساسية للـ JSON
@@ -38,6 +39,34 @@ public:
     void addError(const string& message) {
         results["errors"].push_back(message);
         errors_vector.push_back(message); // أضفها هنا أيضًا
+    }
+
+    void addWarning(const string& message) {
+        warnings_array.push_back(message);
+        results["warnings"] = warnings_array;
+    }
+
+    // إعادة تهيئة جميع النتائج لتشغيل جديد (مفيد للاختبارات وتشغيلات متعددة)
+    void reset() {
+        results.clear();
+        errors_vector.clear();
+        results["errors"] = json::array();
+        warnings_array = json::array();
+        results["warnings"] = warnings_array;
+        results["tokens"] = json::array();
+        results["symbols"] = json::array();
+        results["parseTree"] = "";
+        results["compilationStatus"] = "In Progress";
+    }
+
+    // ملخص موجز للأعداد
+    void finalizeSummary() {
+        results["summary"] = {
+            {"errorCount", errors_vector.size()},
+            {"warningCount", warnings_array.size()},
+            {"tokenCount", results["tokens"].size()},
+            {"symbolCount", results["symbols"].size()}
+        };
     }
 
     void addToken(size_t line, size_t column, std::string_view type, 

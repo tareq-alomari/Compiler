@@ -46,13 +46,18 @@ void start(string sourceCode){
     ExprParser parser(&tokens);
     parser.removeErrorListeners();
     parser.addErrorListener(&parserErrorListener);
-    tree::ParseTree* tree = parser.prog();
+    tree::ParseTree* tree = parser.program();
 
     
      // 1. إضافه التوكن الى مجمع المخرجات  لاستلامها في c# او عرضها في console
     for (const auto& token : tokens.getTokens()) {
         if (token->getChannel() == 0) { // أضف فقط الـ tokens التي ليست في قناة 'skip'
-            string tokenType = string(parser.getVocabulary().getSymbolicName(token->getType()));
+            int typeIndex = token->getType();
+            string tokenType = string(parser.getVocabulary().getSymbolicName(typeIndex));
+            if (tokenType.empty()) {
+                auto lit = parser.getVocabulary().getLiteralName(typeIndex);
+                tokenType = lit.empty() ? to_string(typeIndex) : lit;
+            }
             string tokenLexeme = token->getText();
             resultsHandler.addToken(
                 token->getLine(),
@@ -81,5 +86,8 @@ void start(string sourceCode){
         TypeCheckerSemanticAnalyzer semanticAnalyzer;
         semanticAnalyzer.visit(tree);
     }
+
+    // finalize summary counters regardless of pass/fail
+    resultsHandler.finalizeSummary();
 
 }
